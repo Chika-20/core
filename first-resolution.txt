@@ -1,3 +1,7 @@
 Membuat resolusi pertama
 bkd kab tegal
 membuat helpdesk bkd
+rencana belajar :
+HTML
+PHP
+CSS
